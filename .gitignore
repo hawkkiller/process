@@ -29,6 +29,7 @@ fabric.properties
 .idea/caches/build_file_checksums.ser
 .dart_tool/
 .packages
+.metadata
 build/
 pubspec.lock
 doc/api/
@@ -81,4 +82,6 @@ lint/outputs/
 lint/tmp/
 *.hprof
 /.idea/
+!/process_platform_interface/.metadata
+!/process_platform_interface/.metadata
 !/process_platform_interface/.metadata
